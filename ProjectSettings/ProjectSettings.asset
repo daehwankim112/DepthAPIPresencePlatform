@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ed7cc0b7485fbb84db0cc4bcddc3ab7d
+  productGUID: 508f1ea624f3c9b4fb30853227a4283a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Testing--DepthAPI
+  productName: Testing-DepthAPI
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -168,7 +168,7 @@ PlayerSettings:
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
-  AndroidPreferredInstallLocation: 0
+  AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
@@ -833,14 +833,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Testing--DepthAPI
+  metroPackageName: Testing-DepthAPI
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Testing--DepthAPI
+  metroApplicationDescription: Testing-DepthAPI
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -909,10 +909,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 34669c64-8573-4754-950b-0cb3bc2e64ba
+  cloudProjectId: a0f1c32a-990b-4a1a-be17-7ed9abf4d73d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Testing--DepthAPI
+  projectName: Testing-DepthAPI
   organizationId: kdw8731
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
